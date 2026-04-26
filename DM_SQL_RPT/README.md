@@ -2,6 +2,8 @@
 
 `DM_SQL_RPT` 是一个基于 `EXEC_ID` 的 SQL 分析包，用来集中查看一次 SQL 执行相关的对象、计划和运行信息。
 
+![SQL 分析全链路总览](./sql-analysis-overview.png)
+
 ## 功能说明
 
 - `GET_ALL_INFO`：按顺序输出完整诊断信息
